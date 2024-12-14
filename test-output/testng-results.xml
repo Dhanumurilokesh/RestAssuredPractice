@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-14T12:35:46 IST" name="Default suite" finished-at="2024-12-14T12:35:50 IST" duration-ms="4045">
+  <suite started-at="2024-12-14T14:50:52 IST" name="Default suite" finished-at="2024-12-14T14:50:57 IST" duration-ms="4819">
     <groups>
     </groups>
-    <test started-at="2024-12-14T12:35:46 IST" name="Default test" finished-at="2024-12-14T12:35:50 IST" duration-ms="4045">
-      <class name="test.fisrtScript">
-        <test-method signature="getListUsers()[pri:0, instance:test.fisrtScript@55141def]" started-at="2024-12-14T12:35:46 IST" name="getListUsers" finished-at="2024-12-14T12:35:50 IST" duration-ms="3952" status="PASS">
+    <test started-at="2024-12-14T14:50:52 IST" name="Default test" finished-at="2024-12-14T14:50:57 IST" duration-ms="4819">
+      <class name="com.eviltester.apichallenges.TC_001">
+        <test-method signature="getSingleEntity()[pri:0, instance:com.eviltester.apichallenges.TC_001@55141def]" started-at="2024-12-14T14:50:52 IST" name="getSingleEntity" finished-at="2024-12-14T14:50:57 IST" duration-ms="4728" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getListUsers -->
-      </class> <!-- test.fisrtScript -->
+        </test-method> <!-- getSingleEntity -->
+      </class> <!-- com.eviltester.apichallenges.TC_001 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
